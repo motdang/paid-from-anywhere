@@ -1,0 +1,10 @@
+.env
+.env.*
+.dev.vars
+*.key
+node_modules/
+.wrangler/
+dist/
+__pycache__/
+*.log
+.DS_Store
